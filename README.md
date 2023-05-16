@@ -14,13 +14,13 @@ to start the app you need
 --------
 follow this commands 
 
-composer install
-npm install 
-npm run dev
-npm run watch
+**composer install
+**npm install 
+**npm run dev
+**npm run watch
 
-php artisan migrate
-php artisan serve 
+**php artisan migrate
+**php artisan serve 
 
 then go to http://127.0.0.1:8000
 
